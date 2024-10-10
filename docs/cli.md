@@ -17,3 +17,4 @@ The cd command is used to change the selected directory.
 
 The clear command clears the display in the program.
 
+[Go back to main page](README.md)
